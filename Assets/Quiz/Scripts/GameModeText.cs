@@ -30,6 +30,14 @@ public class GameModeText : MonoBehaviour
     public void UpdateGameMode(bool mode)
     {
         gameModeText.text = mode.ToString().ToLower();
+        if (mode)
+        {
+            gameModeText.color = Color.green;
+        }
+        else
+        {
+            gameModeText.color = Color.red;
+        }
     }
 
     // Helper function to generate a random boolean value

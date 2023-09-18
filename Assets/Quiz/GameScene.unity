@@ -272,9 +272,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Quiz
+  m_Text: 'Space Trivia Quiz (CSCI 526)
 
-    Madfireon'
+    Team: Hritik & Vasvi'
 --- !u!222 &204429815
 CanvasRenderer:
   m_ObjectHideFlags: 0
